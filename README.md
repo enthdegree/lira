@@ -11,7 +11,7 @@ Find a basis for the collection of integer vectors orthogonal to `v_x`.  Paraphr
 
 ## Input 
 
-  `v_x` = integer `n`-vector
+  `v_x` = nonzero integer `n`-vector
 
 ## Output
 
