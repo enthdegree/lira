@@ -12,7 +12,7 @@ function mtx_C = lira(v_x)
 % > Theorem 6.1.
 %
 % Input: 
-%   v_x = integer n-vector
+%   v_x = nonzero integer n-vector
 %
 % Output:
 %  mtx_C = n*(n-1) integer matrix, each column an integer vector orthogonal
